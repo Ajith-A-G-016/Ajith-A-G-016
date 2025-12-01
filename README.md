@@ -13,6 +13,3 @@ HTML/CSS mastered, now on my JavaScript evolution arc 🚀
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ajith-A-G-016&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ajith-A-G-016&icon=5&color=3)](https://visitcount.itsvg.in)
