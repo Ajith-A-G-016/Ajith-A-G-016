@@ -34,12 +34,6 @@ I am a passionate developer focused on mastering core computer science concepts 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith-A-G-016&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-### 🔝 Top Contributed Repos
-
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ajith-A-G-016&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
 ## 📫 Connect with me
 
 <p>
