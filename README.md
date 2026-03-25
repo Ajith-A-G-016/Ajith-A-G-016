@@ -27,7 +27,6 @@ I am a passionate developer focused on mastering core computer science concepts 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajith-A-G-016&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="Ajith's GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ajith-A-G-016&theme=blueberry&hide_border=false" alt="Ajith's GitHub streak" />
 </p>
 
 <p align="center">
