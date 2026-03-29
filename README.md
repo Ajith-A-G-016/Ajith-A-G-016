@@ -6,8 +6,6 @@
 
 ## 💫 About Me
 
-I am a passionate developer focused on mastering core computer science concepts and building solid applications.
-
 * 🧠 **Exploring Data Structures & Algorithms**
 * 💡 **Improving Logic & Coding Skills Daily**
 * ☕ **Writing clean and efficient Java code**
@@ -20,18 +18,7 @@ I am a passionate developer focused on mastering core computer science concepts 
 
 ## 🚀 Featured Projects
 
-* **Querycure:** A comprehensive healthcare ecosystem designed to seamlessly connect patients, doctors, and hospital administrators.
 * **NatureNest:** An online agriculture marketplace platform facilitating direct connections and transactions.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajith-A-G-016&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="Ajith's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith-A-G-016&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
 
 ## 📫 Connect with me
 
