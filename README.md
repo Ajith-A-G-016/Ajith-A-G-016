@@ -10,11 +10,11 @@
 
 * 🧠 **Exploring:** Data Structures & Algorithms
 * 💡 **Improving:** Logic & Coding Skills Daily
-* ☕ **Writing:** clean and efficient Java code
+* ☕ **Writing:** Clean and Efficient Java code
 
 ---
 
-## 💻 Tech Stack
+## 💻 Programming Languages:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
