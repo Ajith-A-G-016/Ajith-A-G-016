@@ -8,9 +8,9 @@
 
 ## 💫 About Me
 
-* 🧠 **Exploring** Data Structures & Algorithms
-* 💡 **Improving** Logic & Coding Skills Daily
-* ☕ **Writing** clean and efficient Java code
+* 🧠 **Exploring:** Data Structures & Algorithms
+* 💡 **Improving:** Logic & Coding Skills Daily
+* ☕ **Writing:** clean and efficient Java code
 
 ---
 
