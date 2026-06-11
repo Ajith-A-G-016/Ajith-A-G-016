@@ -10,7 +10,6 @@
 
 * 🧠 **Exploring:** Data Structures & Algorithms
 * 💡 **Improving:** Logic & Coding Skills Daily
-* ☕ **Writing:** Clean and Efficient Java code
 
 ---
 
