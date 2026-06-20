@@ -8,8 +8,10 @@
 
 ## 💫 About Me
 
-* 🧠 **Exploring:** Data Structures & Algorithms
-* 💡 **Improving:** Logic & Coding Skills Daily
+AI is everywhere right now, and I’m definitely interested in exploring it. But I’ve realized that to build anything meaningful, you first need strong logic.
+
+​I currently build web layouts with HTML, CSS, and Bootstrap, while spending my time improving my problem-solving skills through DSA in Java.
+​I just enjoy figuring out how systems actually work and making sure I learn something new every day.
 
 ---
 
@@ -20,20 +22,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌿 NatureNest
-An online agriculture marketplace platform facilitating direct connections and transactions between farmers and customers to promote sustainable practices and fair pricing.
-* **Key Features:** User roles and dashboards, secure session-based authentication, product inventory management, and geographical region (district/state) detection.
-* **Technologies Used (Built using GeminiAI):** HTML5, CSS3, JS, jQuery, AJAX, PHP, MySQL.
-
-### 🏥 QueryCure
-A responsive healthcare web application designed to bridge the gap between patients and specialized medical professionals through smart discovery, flexible booking, and an integrated digital pharmacy.
-* **Key Features:** Role-based dashboards for doctors and patients, virtual and in-clinic consultation scheduling, auto-generated meeting links, and a secure e-pharmacy storefront.
-* **Technologies Used (Built using GeminiAI):** HTML5, CSS3, JavaScript.
 
 ---
 
