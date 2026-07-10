@@ -10,23 +10,25 @@
 
 AI is everywhere right now, and I’m definitely interested in exploring it. But I’ve realized that to build anything meaningful, you first need strong logic.
 
-​I currently build web layouts with HTML, CSS, and Bootstrap, while spending my time improving my problem-solving skills through DSA in Java.
-​I just enjoy figuring out how systems actually work and making sure I learn something new every day.
+I currently build web layouts with HTML, CSS, Bootstrap, and JavaScript, while spending my time improving my problem-solving skills through DSA in Java.
+
+I just enjoy figuring out how systems actually work and making sure I learn something new every day.
 
 ---
 
-## 💻 Skills:
+## 💻 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ajith-a-g" target="_blank">
